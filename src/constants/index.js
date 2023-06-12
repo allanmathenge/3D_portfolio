@@ -163,7 +163,7 @@ import {
     {
       name: "AI_Article Summarizer",
       description:
-        "AI_article summarizer condenses lengthy texts, extracting key information for concise and efficient understanding. Revolutionize info consumption",
+        "AI_article summarizer condenses lengthy texts, extracting key information for concise and efficient understanding. Revolutionize info consumption. Link: https://papaya-mochi-52fc61.netlify.app/",
       tags: [
         {
           name: "react",
@@ -184,7 +184,7 @@ import {
     {
       name: "TikTok Clone app",
       description:
-        "AI-powered TikTok clone app with smart recommendation algorithms for personalized content discovery and seamless video editing features.",
+        "AI-powered TikTok clone app with smart recommendation algorithms for personalized content discovery and seamless video editing features. Link: https://tiktik-clone-gules-mu.vercel.app/",
       tags: [
         {
           name: "react",
@@ -205,7 +205,7 @@ import {
     {
       name: "Portfolio App ",
       description:
-        "A sleek and intuitive app to showcase my previous skills, projects, and achievements to help others land their dream opportunities.",
+        "A sleek and intuitive app to showcase my previous skills, projects, and achievements to help others land their dream opportunities. Link: https://allanmathenge1.netlify.app/",
       tags: [
         {
           name: "nextjs",
